@@ -9,7 +9,7 @@ la fonction est:
 
 où :
 
-  q0, q1, q2 sont le degrees de chaque motor pour pouvoir arrive a la position X,Y,Z
+  q0, q1, q2 sont le degrees de chaque motor pour pouvoir arriver à la position X,Y,Z
   
   
 Pour calibré c'est necessaire prend bien la taille de bras, donc, après on peut positioner le bras 
