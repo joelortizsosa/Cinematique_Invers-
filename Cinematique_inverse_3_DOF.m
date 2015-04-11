@@ -14,3 +14,5 @@ q0 = -atan(x/y);
 q2 = round((real(q2*180/pi))); % l_elbox_y
 q1 = round(real(q1*180/pi));  % l_shoulder_x
 q0 = round(real(q0*180/pi)); % l_shoulder_y
+
+%pour faire le calcule se utilise la methode plus simple, par trigonometrie 
